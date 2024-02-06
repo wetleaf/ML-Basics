@@ -28,3 +28,5 @@
   - Useful courses
     - [Coursera - Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
     - [Deep Learning Crash Course](https://www.youtube.com/watch?v=VyWAvY2CF9c)
+
+Enjoy your learning journey!
